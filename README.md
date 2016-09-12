@@ -1,2 +1,2 @@
-# rhetoric
-LaTeX notes for the New SAT Essay
+# Ars Rhetorica
+Notes for the New SAT Essay
